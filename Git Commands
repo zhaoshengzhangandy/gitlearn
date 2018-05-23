@@ -11,3 +11,4 @@ Git command for learn
 　　合并某分支到当前分支：git merge name
 
 　　删除分支：git branch –d name
+  参考网址：https://blog.csdn.net/free_wind22/article/details/50967723
